@@ -17,9 +17,8 @@ Education
 Work experience
 ======
 * 2024-Current: Clinical Data Scientist
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * Novo Nordisk GBS, Bengaluru
+  * Duties includes: Trial programmer managing statistical programming activtities
 
 * Dec 2023 - June 2024: Student Researcher (during Masters)
   * Institute of Bioinformatics and Applied Biotechnology (IBAB)
