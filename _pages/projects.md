@@ -5,12 +5,12 @@ permalink: /projects/
 author_profile: true
 ---
 
-## Project 1: Godot Game Development
+## Project 1: Automated Metadata Overview
 
 
 
-## Project 2: Automated Metadata Overview
+## Project 2: Clinical Data Review Toolbox
 
 
 
-## Project 3: Clinical Data Review Toolbox
+## Project 3: Godot Game Development
