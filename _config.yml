@@ -23,7 +23,7 @@ repository               : "nim-m/nim-m.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile2.png"
+  avatar           : "profile2.jpeg"
   name             : "Nimisha Majumder"
   pronouns         : # example: "she/her"  
   bio              : "Clinical Data Scientist"
