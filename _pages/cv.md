@@ -18,7 +18,7 @@ Work experience
 ======
 * 2024-Current: Clinical Data Scientist
   * Novo Nordisk GBS, Bengaluru
-  * Duties includes: Trial programmer managing statistical programming activtities
+  * Trial CDS (managing statistical programming activtities for obesity clinical trial), support programming
 
 * Dec 2023 - June 2024: Student Researcher (during Masters)
   * Institute of Bioinformatics and Applied Biotechnology (IBAB)
